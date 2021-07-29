@@ -12,7 +12,7 @@
     p.mt-4 Esta implementación se define como la creación de aplicaciones reales en la nube. A continuación, se explica a través de un ejemplo la implementación de esta integración usando el servidor web Apache2, Git y GitLab. Este es un proceso similar para cualquier servidor, sistema de integración y entrega continua. 
     figure.mt-5
       img(src="@/assets/template/tema-1-2.svg" alt="Texto que describa la imagen")
-    p.mt-5 Para complementar este proceso de implementación es importante conocer el proceso de instalación de GitLab, el cual se realizará en un equipo que servirá para la integración y entrega continua, para este caso particular se utilizará un contenedor de Docker corriendo sobre un equipo con sistema operativo Linux en la distribución de Ubuntu, que se está ejecutando por medio de una máquina virtual en VirtualBox
+    p.mt-5 Para complementar este proceso de implementación es importante conocer el proceso de instalación de GitLab, el cual se realizará en un equipo que servirá para la integración y entrega continua, para este caso particular se utilizará un contenedor de Docker corriendo sobre un equipo con sistema operativo Linux en la distribución de Ubuntu, que se está ejecutando por medio de una máquina virtual en VirtualBox.
     .row.mt-5
       .col-10.offset-1
         .tarjeta.color-primario.p-3.mb-5

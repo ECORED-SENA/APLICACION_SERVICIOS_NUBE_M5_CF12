@@ -37,7 +37,7 @@
                     .col.px-0.pt-3
                       p Conozca el proceso para instalar el repositorio central para GitLab.
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Repositorio_central_GitLab.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Repositorio_central_gitlab.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
