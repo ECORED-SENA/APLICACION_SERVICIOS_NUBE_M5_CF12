@@ -85,23 +85,28 @@ export default {
   glosario: [
     {
       termino: 'Git',
+      termHTML: 'Git',
       significado: 'Software para el control de versiones.',
     },
     {
       termino: 'IDE',
+      termHTML: 'IDE',
       significado: 'Entorno integrado de desarrollo.',
     },
     {
       termino: 'Plugins',
+      termHTML: '<i>Plugins</i>',
       significado:
         'Programas complementarios que se instalan para ampliar las capacidades de un software.',
     },
     {
       termino: 'Repositorio',
+      termHTML: 'Repositorio',
       significado: 'Lugar en el que se almacenan archivos.',
     },
     {
       termino: 'Runner',
+      termHTML: '<i>Runner</i>',
       significado: 'Servicio que permite ejecutar un conjunto de scripts.',
     },
   ],
